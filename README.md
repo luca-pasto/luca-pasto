@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [AWS OpenVPN Implementation](https://github.com/luca-pasto/)
+- [AWS OpenVPN Implementation](https://github.com/luca-pasto/AWS-OpenVPN)
 - [Home SOC + SIEM Lab(In Progress)](https://github.com/luca-pasto/)
 
 <h2>📄 Certifications:</h2>
