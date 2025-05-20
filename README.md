@@ -6,6 +6,10 @@
 - [AWS OpenVPN Implementation](https://github.com/luca-pasto/)
 - [Home SOC + SIEM Lab(In Progress)](https://github.com/luca-pasto/)
 
+<h2>📄 Certifications:</h2>
+
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/certificate/OG4H9S1SXNI4)
+- [CompTIA Security+ (In Progress)](https://github.com/luca-pasto/)
 
 <h2> Connect: </h2>
 
