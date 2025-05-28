@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Luca! <br/><a href="https://linkedin.com/in/luca-pasto">Graduate from SDSU</a>, Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Luca! <br/><a href="https://linkedin.com/in/luca-pasto" type=_blank>Graduate from SDSU</a>, Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
