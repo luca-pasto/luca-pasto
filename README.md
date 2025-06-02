@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [AWS OpenVPN Implementation](https://github.com/luca-pasto/AWS-OpenVPN)
-- [Active Directory (In Progress)](https://github.com/luca-pasto/)
+- [SIEM + Active Directory + Powershell (In Progress)](https://github.com/luca-pasto/)
 
 <h2>📄 Certifications:</h2>
 
