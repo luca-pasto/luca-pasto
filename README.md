@@ -8,14 +8,51 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/certificate/OG4H9S1SXNI4)
-- [CompTIA Security+ (In Progress)](https://github.com/luca-pasto/)
+<div align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/OG4H9S1SXNI4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Cybersecurity&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Cybersecurity Professional Certificate" />
+  </a>
+  <a href="https://www.comptia.org/certifications/a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CompTIA%20A%2B%20(In%20Progress)&logo=comptia&label=&color=4B4B4B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA A+ In Progress" />
+  </a>
+  <a href="https://www.comptia.org/certifications/security" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CompTIA%20Security%2B%20(In%20Progress)&logo=comptia&label=&color=E4002B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA Security+ In Progress" />
+  </a>
+</div>
+
+<h2>🔨 Skills:</h2>
+<div align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows logo" />
+  <img width="12" />
 
 <h2> Connect: </h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div align="left">
+   <a href="mailto:lucajpasto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/luca-pasto" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
-[linkedin]: https://linkedin.com/in/luca-pasto
 
 <!--
 **luca-pasto/luca-pasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
