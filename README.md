@@ -12,6 +12,9 @@
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/OG4H9S1SXNI4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Google%20Cybersecurity&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Cybersecurity Professional Certificate" />
   </a>
+    <a href="https://www.credly.com/badges/eb8f43da-5b5f-4c3f-b11a-5daf00fa9943/public_url" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ISC2%20Certified%20in%20Cybersecurity&logo=isc2&label=&color=2DC653&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ISC2 Certified in Cybersecurity" />
+  </a>
   <a href="https://www.comptia.org/certifications/a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CompTIA%20A%2B%20(In%20Progress)&logo=comptia&label=&color=4B4B4B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA A+ In Progress" />
   </a>
