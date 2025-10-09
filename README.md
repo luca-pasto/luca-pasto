@@ -4,7 +4,6 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [AWS OpenVPN Pipeline](https://github.com/luca-pasto/AWS-OpenVPN)
-- [SIEM + Active Directory (In Progress)](https://github.com/luca-pasto/)
 
 <h2>📄 Certifications:</h2>
 
