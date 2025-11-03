@@ -9,7 +9,7 @@
 
 <div align="left">
   <a href="https://www.comptia.org/certifications/a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CompTIA%20A%2B%20(In%20Progress)&logo=comptia&label=&color=4B4B4B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA A+ In Progress" />
+    <img src="https://img.shields.io/static/v1?message=CompTIA%20A%2B%20&logo=comptia&label=&color=4B4B4B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA A+" />
   </a>
   <a href="https://www.comptia.org/certifications/security" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CompTIA%20Security%2B%20(In%20Progress)&logo=comptia&label=&color=E4002B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA Security+ In Progress" />
