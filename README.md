@@ -3,7 +3,7 @@
 
 <h2> ☁️ Cloud:</h2>
 
-- [AWS OpenVPN Pipeline](https://github.com/luca-pasto/AWS-OpenVPN)
+- [AWS OpenVPN](https://github.com/luca-pasto/AWS-OpenVPN)
 
 <h2> 🔧 Scripting:</h2>
 
