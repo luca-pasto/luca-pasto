@@ -1,9 +1,13 @@
 ## Hi there 👋
 <h1>Hi, I'm Luca! <br/>Graduate from SDSU</a>, Aspiring IT Professional</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2> ☁️ Cloud:</h2>
 
 - [AWS OpenVPN Pipeline](https://github.com/luca-pasto/AWS-OpenVPN)
+
+<h2> 🔧 Scripting:</h2>
+
+- [System Information Script](https://github.com/luca-pasto/SystemInfoScript)
 
 <h2>📄 Certifications:</h2>
 
