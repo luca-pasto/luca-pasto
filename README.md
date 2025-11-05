@@ -1,16 +1,6 @@
 ## Hi there 👋
 <h1>Hi, I'm Luca! <br/>Graduate from SDSU</a>, Aspiring IT Professional</a>
 
-<h2> ☁️ Cloud:</h2>
-
-- [AWS OpenVPN](https://github.com/luca-pasto/AWS-OpenVPN)
-
-<h2> 🔧 Scripting:</h2>
-
-- [System Information Script](https://github.com/luca-pasto/SystemInfoScript)
-
-<h2>📄 Certifications:</h2>
-
 <div align="left">
   <a href="https://www.comptia.org/certifications/a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CompTIA%20A%2B%20&logo=comptia&label=&color=4B4B4B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA A+" />
