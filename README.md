@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Luca! <br/>Graduate from SDSU</a>, Aspiring IT Professional</a>
+<h1>I'm Luca! <br/>Graduate from SDSU</a>, Aspiring IT Professional</a>
 
 ## Projects:
 - [Active Directory Homelab](https://github.com/luca-pasto/AD-Homelab)
