@@ -2,7 +2,7 @@
 <h1>I'm Luca! <br/>Graduate from SDSU</a>, Aspiring IT Professional</a>
 
 ## Projects:
-- [Active Directory Homelab](https://github.com/luca-pasto/AD-Homelab)
+- [Active Directory Home Lab](https://github.com/luca-pasto/AD-Homelab)
 
 <h2> Certifications: </h2>
 <div align="left">
