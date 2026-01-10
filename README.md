@@ -6,7 +6,8 @@
   - [Active Directory: Configuration](https://github.com/luca-pasto/AD-Homelab)
   - [Active Directory: Additional(_In Progress_)]()
 - Help Desk Ticketing System:
-  - [osTicket: Installation(_In Progress_)]()
+  - [osTicket: Installation](https://github.com/luca-pasto/osTicket-installation)
+  - [osTicket: Post-Installation(_In Progress)_]()
 
 <h3> Certifications: </h3>
 <div align="left">
