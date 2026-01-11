@@ -3,8 +3,8 @@
 
 ## Information Technology Projects:
 - Active Directory Home Lab:
-  - [Active Directory: Configuration](https://github.com/luca-pasto/AD-Homelab)
-  - [Active Directory: Additional(_In Progress_)]()
+  - [Active Directory: Installation and Configuration](https://github.com/luca-pasto/AD-Homelab)
+  - [Active Directory: GPOs and Password Resets(_In Progress_)]()
 - Help Desk Ticketing System:
   - [osTicket: Installation](https://github.com/luca-pasto/osTicket-installation)
   - [osTicket: Post-Installation(_In Progress)_]()
