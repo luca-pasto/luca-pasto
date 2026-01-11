@@ -1,7 +1,6 @@
 ## Hi there 👋
-<h1>I'm Luca! <br/>Graduate from SDSU</a>, Aspiring IT Professional</a>
 
-## Information Technology Projects:
+# Projects:
 - Active Directory Home Lab:
   - [Active Directory: Installation and Configuration](https://github.com/luca-pasto/AD-Homelab)
   - [Active Directory: Common GPOs and Shared Folders(_In Progress_)]()
