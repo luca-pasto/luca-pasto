@@ -3,7 +3,7 @@
 # Projects:
 - Active Directory Home Lab:
   - [Active Directory: Installation and Configuration](https://github.com/luca-pasto/AD-Homelab)
-  - [Active Directory: Common GPOs and Shared Folders(_In Progress_)]()
+  - [Active Directory: GPOs, Password Resets, and Shared Folders](https://github.com/luca-pasto/AD-Homelab2)
 - Help Desk Ticketing System:
   - [osTicket: Installation](https://github.com/luca-pasto/osTicket-installation)
   - [osTicket: Post-Installation(_In Progress)_]()
