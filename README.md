@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Projects:
+### Projects:
 - Active Directory Home Lab:
   - [Active Directory: Installation and Configuration](https://github.com/luca-pasto/AD-Homelab)
   - [Active Directory: GPOs, Password Resets, and Shared Folders](https://github.com/luca-pasto/AD-Homelab2)
