@@ -7,8 +7,7 @@
 - Help Desk Ticketing System:
   - [osTicket: Installation](https://github.com/luca-pasto/osTicket-installation)
   - [osTicket: Post-Installation and Ticket Lifecycle](https://github.com/luca-pasto/osTicket-post-installation-lifecycle)
-- Microsoft 365:
-  - [Microsoft 365: Administrative Tasks (_In Progress_)]()
+
 
 <h3> Certifications: </h3>
 <div align="left">
