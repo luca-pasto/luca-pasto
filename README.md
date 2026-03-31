@@ -1,13 +1,7 @@
 ## Hi there 👋
 
 ### Projects:
-- Active Directory Home Lab:
-  - [Active Directory: Installation and Configuration](https://github.com/luca-pasto/AD-Homelab)
-  - [Active Directory: Group Policy Objects and Security Groups](https://github.com/luca-pasto/AD-Homelab2)
-- Help Desk Ticketing System:
-  - [osTicket: Installation](https://github.com/luca-pasto/osTicket-installation)
-  - [osTicket: Post-Installation and Ticket Lifecycle](https://github.com/luca-pasto/osTicket-post-installation-lifecycle)
-
+_In Progress..._
 
 <h3> Certifications: </h3>
 <div align="left">
@@ -18,19 +12,3 @@
     <img src="https://img.shields.io/static/v1?message=CompTIA%20Security%2B%20&logo=comptia&label=&color=E4002B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CompTIA Security+" />
   </a>
 </div>
-
-
-<!--
-**luca-pasto/luca-pasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
